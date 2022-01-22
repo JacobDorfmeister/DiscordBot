@@ -1,4 +1,3 @@
-# you will need these
 import discord
 import os
 import discord.ext
