@@ -3,7 +3,7 @@ A secure and customizable bot for controlling cross-server announcements and int
 Within the code of the bot, you can give it anywhere from one to one million different triggers that send a message to a targeted group.
 
 # Reccomendations
-It is best to create a channell specifically for giving commands to the bot.
+It is best to create a channel specifically for giving commands to the bot.
 
 # How to Use
 For every trigger you need a keyword, the command channel's ID, target channel, and the message you want sent.
